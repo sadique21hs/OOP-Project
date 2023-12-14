@@ -6,10 +6,6 @@ import java.io.FileWriter;
 import javax.swing.JOptionPane;
 import javax.swing.table.DefaultTableModel;
 
-/**
- *
- * @author siyam
- */
 public class Login extends javax.swing.JFrame {
 
     /**
