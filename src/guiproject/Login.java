@@ -8,9 +8,7 @@ import javax.swing.table.DefaultTableModel;
 
 public class Login extends javax.swing.JFrame {
 
-    /**
-     * Creates new form Loginp
-     */
+  
     public Login() {
         initComponents();
     }
