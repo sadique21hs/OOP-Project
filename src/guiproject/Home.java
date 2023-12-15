@@ -6,15 +6,9 @@ import java.io.FileReader;
 import java.io.IOException;
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author siyam
- */
 public class Home extends javax.swing.JFrame {
 
-    /**
-     * Creates new form Home
-     */
+   
     public Home() {
         initComponents();
     }
