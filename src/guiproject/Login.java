@@ -423,5 +423,5 @@ public class Login extends javax.swing.JFrame {
     private javax.swing.JTextField txtContact;
     private javax.swing.JTextField txtEmail;
     private javax.swing.JTextField txtname;
-    // End of variables declaration//GEN-END:variables
+    
 }
