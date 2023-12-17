@@ -1,7 +1,4 @@
-/*
- 
- 
- */
+
 package guiproject;
 
 import java.io.BufferedWriter;
