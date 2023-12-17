@@ -235,5 +235,5 @@ public class Home extends javax.swing.JFrame {
     private javax.swing.JLabel jLabel2;
     private javax.swing.JPanel jPanel1;
     private javax.swing.JPanel jPanel2;
-    // End of variables declaration//GEN-END:variables
+  
 }
