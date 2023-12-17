@@ -225,7 +225,6 @@ public class Home extends javax.swing.JFrame {
         });
     }
 
-    // Variables declaration - do not modify//GEN-BEGIN:variables
     private javax.swing.JTextField NameText;
     private javax.swing.JLabel Password;
     private javax.swing.JPasswordField PasswordText;
