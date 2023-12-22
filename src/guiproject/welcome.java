@@ -1,6 +1,6 @@
 /*
 
- * To change this template file, choose Tools |
+ 
   
  */
 package guiproject;
