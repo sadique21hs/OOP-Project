@@ -1,7 +1,7 @@
 /*
 
  * To change this template file, choose Tools | Templates
-  in the editor.
+  
  */
 package guiproject;
 
