@@ -6,15 +6,9 @@ import java.io.FileWriter;
 import java.io.IOException;
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author siyam
- */
 public class Signup extends javax.swing.JFrame {
 
-    /**
-     * Creates new form Signup
-     */
+ 
     public Signup() {
         initComponents();
     }
