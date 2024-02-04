@@ -51,6 +51,9 @@ This Java-based Object-Oriented Programming (OOP) project is an Admin Panel that
 
 4. **Update:**
    - Use the "Update" button to modify the existing data.
+     
+   <img width="783" alt="Screenshot 2024-02-04 215642" src="https://github.com/sadique21hs/OOP-Project/assets/152019380/04e44d93-93ee-4e38-b4ec-95842139d42c">
+   
 
 5. **Delete:**
    - Implement the "Delete" button to remove user data.
