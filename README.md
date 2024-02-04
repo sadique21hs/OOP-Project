@@ -37,6 +37,8 @@ This Java-based Object-Oriented Programming (OOP) project is an Admin Panel that
 
 2. **Login:**
    - After signing up, click the "Login" button and enter your username and password.
+  
+     <img width="938" alt="Screenshot 2024-02-04 214749" src="https://github.com/sadique21hs/OOP-Project/assets/152019380/11868bd5-0abe-4c52-af14-552b1e5dd153">
 
 3. **Add Data:**
    - Upon successful login, fill in the first name, email, and phone number text fields.
