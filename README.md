@@ -42,7 +42,12 @@ This Java-based Object-Oriented Programming (OOP) project is an Admin Panel that
 
 3. **Add Data:**
    - Upon successful login, fill in the first name, email, and phone number text fields.
+     
+     <img width="830" alt="Screenshot 2024-02-04 215305" src="https://github.com/sadique21hs/OOP-Project/assets/152019380/414f2a12-4370-4f61-a216-afabf28875bb">
+     
    - Click the "Add Data" button to store the entered information in `info.txt`.
+  
+     <img width="270" alt="Screenshot 2024-02-04 215044" src="https://github.com/sadique21hs/OOP-Project/assets/152019380/822103f7-8fff-41c7-907f-38f096309644">
 
 4. **Update:**
    - Use the "Update" button to modify the existing data.
