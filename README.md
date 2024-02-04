@@ -29,7 +29,8 @@ This Java-based Object-Oriented Programming (OOP) project is an Admin Panel that
 1. **Sign Up:**
    - Click the "Sign Up" button on the admin panel.
    - Enter a unique username, set a password, and confirm the password.
-    <img width="949" alt="Screenshot 2024-02-04 214324" src="https://github.com/sadique21hs/OOP-Project/assets/152019380/e1d92bfc-a9e2-46f8-9e06-7f580d6f1650">
+     
+     <img width="949" alt="Screenshot 2024-02-04 214324" src="https://github.com/sadique21hs/OOP-Project/assets/152019380/e1d92bfc-a9e2-46f8-9e06-7f580d6f1650">
     
    - If successful, the account is created, and user data is stored in `input.txt`.
      
@@ -52,11 +53,11 @@ This Java-based Object-Oriented Programming (OOP) project is an Admin Panel that
 4. **Update:**
    - Use the "Update" button to modify the existing data.
    
-   <img width="783" alt="Screenshot 2024-02-04 215642" src="https://github.com/sadique21hs/OOP-Project/assets/152019380/04e44d93-93ee-4e38-b4ec-95842139d42c">
+     <img width="783" alt="Screenshot 2024-02-04 215642" src="https://github.com/sadique21hs/OOP-Project/assets/152019380/04e44d93-93ee-4e38-b4ec-95842139d42c">
 
-    - It will update the `info.txt` file also.
+   - It will update the `info.txt` file also.
   
-      <img width="289" alt="Screenshot 2024-02-04 220116" src="https://github.com/sadique21hs/OOP-Project/assets/152019380/e317a23d-b55b-4499-9a1c-a47937554e79">
+     <img width="289" alt="Screenshot 2024-02-04 220116" src="https://github.com/sadique21hs/OOP-Project/assets/152019380/e317a23d-b55b-4499-9a1c-a47937554e79">
    
 
 5. **Delete:**
