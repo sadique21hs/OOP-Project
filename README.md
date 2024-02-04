@@ -17,11 +17,11 @@ This Java-based Object-Oriented Programming (OOP) project is an Admin Panel that
 
 3. **Login Window:**
    - Upon successful signup, users are redirected to a `login.java` window.
-   - The login window has three text fields for entering first name, email, and a phone number.
+   - The login window has three text fields for entering first name, email, and phone number.
 
 4. **Data Operations:**
    - The login window includes three buttons: "Add Data," "Delete," and "Update."
-   - "Add Data" button stores the entered information in an `info.txt` file.
+   - The "Add Data" button stores the entered information in an `info.txt` file.
    - "Update" button allows users to modify their data.
 
 ## Usage:
@@ -54,7 +54,7 @@ This Java-based Object-Oriented Programming (OOP) project is an Admin Panel that
    
    <img width="783" alt="Screenshot 2024-02-04 215642" src="https://github.com/sadique21hs/OOP-Project/assets/152019380/04e44d93-93ee-4e38-b4ec-95842139d42c">
 
-    - It will update `info.txt` file also.
+    - It will update the `info.txt` file also.
   
       <img width="289" alt="Screenshot 2024-02-04 220116" src="https://github.com/sadique21hs/OOP-Project/assets/152019380/e317a23d-b55b-4499-9a1c-a47937554e79">
    
@@ -63,11 +63,10 @@ This Java-based Object-Oriented Programming (OOP) project is an Admin Panel that
    - Implement the "Delete" button to remove user data.
 
 ## File Structure:
-
-- `AdminPanel.java`: Main class for the admin panel GUI.
+- `Home.java`: Main class for the admin panel GUI.
 - `SignUp.java`: Manages user sign-up functionality.
-- `Login.java`: Handles user login and data entry.
-- `DataOperations.java`: Class for managing data operations (Add, Update, Delete).
+- `Signin.java`: Handles user login and data entry.
+- `login.java`: Class for managing data operations (Add, Update, Delete).
 - `input.txt`: File to store user account information.
 - `info.txt`: File to store user data entered through the login window.
 
@@ -78,7 +77,7 @@ This Java-based Object-Oriented Programming (OOP) project is an Admin Panel that
 ## Instructions:
 
 1. Clone the repository.
-2. Compile and run the `AdminPanel.java` file.
+2. Compile and run the `Home.java` file.
 3. Follow the on-screen instructions to sign up, log in, and perform data operations.
 
 Feel free to explore and enhance this project. If you encounter any issues or have suggestions for improvement, please open an issue on GitHub.
