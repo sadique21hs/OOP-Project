@@ -51,8 +51,12 @@ This Java-based Object-Oriented Programming (OOP) project is an Admin Panel that
 
 4. **Update:**
    - Use the "Update" button to modify the existing data.
-     
+   
    <img width="783" alt="Screenshot 2024-02-04 215642" src="https://github.com/sadique21hs/OOP-Project/assets/152019380/04e44d93-93ee-4e38-b4ec-95842139d42c">
+
+    - It will update `info.txt` file also.
+  
+      <img width="289" alt="Screenshot 2024-02-04 220116" src="https://github.com/sadique21hs/OOP-Project/assets/152019380/e317a23d-b55b-4499-9a1c-a47937554e79">
    
 
 5. **Delete:**
