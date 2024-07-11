@@ -82,5 +82,8 @@ This Java-based Object-Oriented Programming (OOP) project is an Admin Panel that
 3. Follow the on-screen instructions to sign up, log in, and perform data operations.
 
 Feel free to explore and enhance this project. If you encounter any issues or have suggestions for improvement, please open an issue on GitHub.
+You can contribute and also use any code if you want. To get a local copy of this repository, run:
 
-Happy coding!
+  ```bash
+https://github.com/sadique21hs/OOP-Project.git
+
